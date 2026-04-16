@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Data (if too large for GitHub - 100MB limit per file)
+# data/
+
+# Model files (if large)
+*.h5
+*.pkl
+*.pth
