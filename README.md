@@ -32,20 +32,22 @@ A real-time sign language detection system using computer vision and machine lea
 ---
 
 ## 📁 Project Structure
+
+```
 ai-sign-language-detection/
-├── data/ # Training dataset (hand gesture images)
-│ ├── yes/
-│ ├── no/
-│ ├── hello/
-│ ├── please/
-│ ├── thank You/
-│ └── I love You/
-├── dataCollection.py # Script to collect training data
-├── test.py # Script to test the trained model
-├── frontend.py # Frontend interface
+├── data/                   # Training dataset (hand gesture images)
+│   ├── yes/
+│   ├── no/
+│   ├── hello/
+│   ├── please/
+│   ├── thank You/
+│   └── I love You/
+├── dataCollection.py       # Script to collect training data
+├── test.py                 # Script to test the trained model
+├── frontend.py             # Frontend interface
 ├── README.md
 └── requirements.txt
-
+```
 
 ---
 
